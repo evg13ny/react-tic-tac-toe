@@ -7,3 +7,26 @@
     align-items: center;
     flex-direction: column;
 }
+
+.start_btn {
+    width: 200px;
+    height: 35px;
+    margin-bottom: 25px;
+    cursor: pointer;
+    color: white;
+    outline: none;
+    background: #222222;
+    border: 1px solid white;
+}
+
+.start_btn:hover {
+    background: white;
+    color: #222222;
+    transition: .3s all ease;
+}
+
+.game_info {
+    margin-top: 25px;
+    font-size: 36px;
+    color: white;
+}
