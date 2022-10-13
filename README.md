@@ -1,4 +1,4 @@
-Simple Tic Tac Toe game made with ![React](icon.png).
+Simple Tic Tac Toe game made with React.
 
 For use:
 * git clone [repository url]
